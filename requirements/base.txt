@@ -1,0 +1,9 @@
+Django==1.11.5
+PyJWT==1.4.2
+djangorestframework==3.6.4
+djangorestframework-jwt==1.8.0
+pip==9.0.1
+setuptools==36.5.0
+wheel==0.30.0
+wsgiref==0.1.2
+gunicorn==19.4
